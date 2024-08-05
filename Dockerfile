@@ -6,4 +6,4 @@ RUN npm install
 EXPOSE 3000
 EXPOSE 3001
 
-CMD ["node", "get-secret.js"]
+CMD ["node", "sample-app.js"]
